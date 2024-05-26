@@ -7,6 +7,7 @@ pipeline{
                 echo 'Ok every thing is fine as of now'
             }
         }
+        
 
     }
     post{
